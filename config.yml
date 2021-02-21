@@ -1,3 +1,0 @@
- - run:
-          name: deploy to Firebase Hosting
-          command: ./node_modules/.bin/firebase deploy --project github-action-homepage --token=$FIREBASE_TOKEN
